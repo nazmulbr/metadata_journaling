@@ -34,9 +34,9 @@ Supported commands:
 
 ---
 
-### 🧱 Supporting Files (Not Modified by You)
+### 🧱 Supporting Files
 
-These files help test and validate the filesystem but are **not part of journaling logic**.
+These files help test and validate the filesystem
 
 #### `mkfs.c` / `mkfs`
 - Creates a fresh `vsfs.img`
